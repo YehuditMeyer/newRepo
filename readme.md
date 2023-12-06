@@ -1,13 +1,12 @@
 <body>
   <header>
-    <h1>Git ✌️✌️✌️</h1>
+    <h1>Git</h1>
   </header>
   <main>
     <div class="instructions">
-      <h2>May hashem help us<br>🤍❤🧡💛💛💚💙💜🤎🖤</h2>
+      <h3>May hashem help us<br>🤍❤🧡💛💛💚</h2>
     </div>
     <div class="instructions">
-      <h2></h2>
       <ol>
         <li>Ask hashem for his help</li>
         <li>try your best</li>
